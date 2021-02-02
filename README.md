@@ -3,7 +3,7 @@
 ## Description
 An E-Commerce website built using full-stack MERN application with full CRUD functionality. The purpose of this repository is to hold the description and deployed link to the original respository. Due to several personal information that hasn't been hide yet, I apologize at the moment, I can't show the original repository to public. However, in the future, I will make it public after all the critical information has been moved to environment variable. To build this website, I made 2 repositories each for front-end and back-end, then connect it externally using CORS. 
 
-### Deployed link: 
+### Deployed link: https://garudabox.herokuapp.com/
 
 ## Table of Contents
 1. [Description](#-Description)
